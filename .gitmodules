@@ -1,20 +1,20 @@
 [submodule "monopoly-server"]
 	path = monopoly-server
-	url = https://github.com/FatPaper-1874/monopoly-server.git
+	url = https://github.com/chesley666/monopoly-server-rorozn.git
 	branch = main-p2p
 [submodule "monopoly-client"]
 	path = monopoly-client
-	url = https://github.com/FatPaper-1874/monopoly-client.git
+	url = https://github.com/chesley666/monopoly-client-rorozn.git
 	branch = main-p2p
 [submodule "fatpaper-user-server"]
 	path = fatpaper-user-server
-	url = https://github.com/FatPaper-1874/fatpaper-user-server.git
+	url = https://github.com/chesley666/fatpaper-user-server-rorozn.git
 	branch = main
 [submodule "fatpaper-login"]
 	path = fatpaper-login
-	url = https://github.com/FatPaper-1874/fatpaper-login.git
+	url = https://github.com/chesley666/fatpaper-login-rorozn.git
 	branch = main
 [submodule "monopoly-admin"]
 	path = monopoly-admin
-	url = https://github.com/FatPaper-1874/monopoly-admin.git
+	url = https://github.com/chesley666/monopoly-admin-rorozn.git
 	branch = main
